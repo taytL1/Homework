@@ -1,0 +1,14 @@
+:root {
+	/* COLORS */
+	--white-color: #fff;
+	--light-gray-color: #fbfaf7;
+	--black-color: #000;
+	--green-color: #198c36;
+	--dark-green-color: #163a24;
+	--beige-pink-color: #fab5a0;
+	--gray-color: #f2efe6;
+
+	/* FONTS */
+	--font-noto-sans: 'Noto Sans', sans-serif;
+	--font-recoleta: 'Recoleta', sans-serif;
+}

@@ -1,0 +1,38 @@
+.footer {
+}
+.footer__inner {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+	padding: 43px 0;
+}
+.socials {
+	display: flex;
+	align-items: center;
+	gap: 14px;
+}
+
+.footer__title {
+	margin-bottom: 0 !important;
+	font-size: 24px !important;
+}
+
+.footer__subtitle {
+	font-size: 14px;
+	color: var(--dark-green-color);
+}
+
+.footer__inner-no-p {
+	padding: 25px 0 !important;
+}
+
+.footer__list {
+	display: flex;
+	gap: 14px;
+	align-items: center;
+	a {
+		color: var(--green-color);
+		font-size: 14px;
+	}
+}
